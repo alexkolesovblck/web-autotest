@@ -1,0 +1,14 @@
+# IDEA #
+########
+.idea/
+.DS_Store/
+
+# MAVEN #
+########
+target/
+build/
+*.iml
+
+# ALLURE #
+########
+.allure/
